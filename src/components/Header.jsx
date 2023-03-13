@@ -6,9 +6,7 @@ export const Header = (props) => {
   // as primeiras semanas.
 
   return (
-    <div className="py-5 bg-primary text-light">
-      <h1 className="text-center ">{props.titulo}</h1>
-    </div>
+    <h1 className="text-center py-5 bg-primary text-light">{props.titulo}</h1>
   );
 };
 
