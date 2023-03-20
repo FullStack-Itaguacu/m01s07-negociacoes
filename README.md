@@ -25,3 +25,7 @@ npm run dev
 ### Observações
 
 Este projeto já vem com o Bootstrap 5 instalado e configurado. A página HTML que será utilizada como base, caso o aluno prefira seguir o modelo pronto, está no arquivo [projeto-base.html](projeto-base.html).
+
+### Autor
+
+[Prof. Mika](https://www.linkedin.com/in/michaelnsc/)
